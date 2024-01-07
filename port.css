@@ -1,0 +1,20 @@
+
+/*nav style */
+nav{
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+}
+nav-title{
+    Mary
+Copy
+color: var(--Dark-01, #181818);
+
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.orange{
+    color: #FD6E0A;
+}
